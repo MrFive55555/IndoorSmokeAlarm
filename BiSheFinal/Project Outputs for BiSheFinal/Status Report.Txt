@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [BiSheFinal.PrjPcb]
+   Generated File[BiShe-RoundHoles.TXT]
+   Generated File[BiShe-SlotHoles.TXT]
+   Generated File[BiShe.LDP]
+   Generated File[BiShe.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 23:49:28 On 2023/4/28

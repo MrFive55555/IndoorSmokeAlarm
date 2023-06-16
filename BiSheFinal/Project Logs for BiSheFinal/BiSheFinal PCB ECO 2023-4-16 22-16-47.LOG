@@ -1,0 +1,133 @@
+Added Component: Designator=Button1(Button)
+Added Component: Designator=Button2(Button)
+Added Component: Designator=Button3(Button)
+Added Component: Designator=C?(C 0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "唯一出售店铺网址"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后，技术支持"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R8(R 0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://item.taobao.com/item.htm?id=566775463719"; VariantName = "[No Variations]"
+Added Component: Designator=R11(R 0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://item.taobao.com/item.htm?id=566775463719"; VariantName = "[No Variations]"
+Added Component: Designator=R12(R 0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://item.taobao.com/item.htm?id=566775463719"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PB0 Pin=Button1-1
+Added Pin To Net: NetName=NetButton1_2 Pin=Button1-2
+Added Pin To Net: NetName=GND Pin=Button1-4
+Added Pin To Net: NetName=PB1 Pin=Button2-1
+Added Pin To Net: NetName=NetButton2_2 Pin=Button2-2
+Added Pin To Net: NetName=GND Pin=Button2-4
+Added Pin To Net: NetName=PB10 Pin=Button3-1
+Added Pin To Net: NetName=NetButton3_2 Pin=Button3-2
+Added Pin To Net: NetName=GND Pin=Button3-4
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=5V Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=R8-1
+Added Pin To Net: NetName=NetButton1_2 Pin=R8-2
+Added Pin To Net: NetName=3V3 Pin=R11-1
+Added Pin To Net: NetName=NetButton2_2 Pin=R11-2
+Added Pin To Net: NetName=3V3 Pin=R12-1
+Added Pin To Net: NetName=NetButton3_2 Pin=R12-2
+Change Net Color : Old Net Color=Blue New Net Color=Default
+Added Member To Class: ClassName=BiSheFinalA Member=Component Button1 轻触按钮
+Added Member To Class: ClassName=BiSheFinalA Member=Component Button2 轻触按钮
+Added Member To Class: ClassName=BiSheFinalA Member=Component Button3 轻触按钮
+Added Member To Class: ClassName=BiSheFinalA Member=Component Buzzer1 小型有源蜂鸣器
+Added Member To Class: ClassName=BiSheFinalA Member=Component C1 104
+Added Member To Class: ClassName=BiSheFinalA Member=Component C2 104
+Added Member To Class: ClassName=BiSheFinalA Member=Component C3 104
+Added Member To Class: ClassName=BiSheFinalA Member=Component C4 104
+Added Member To Class: ClassName=BiSheFinalA Member=Component C5 22pf
+Added Member To Class: ClassName=BiSheFinalA Member=Component C6 22pf
+Added Member To Class: ClassName=BiSheFinalA Member=Component C7 22pf
+Added Member To Class: ClassName=BiSheFinalA Member=Component C8 22pf
+Added Member To Class: ClassName=BiSheFinalA Member=Component C9 104
+Added Member To Class: ClassName=BiSheFinalA Member=Component C10 104
+Added Member To Class: ClassName=BiSheFinalA Member=Component C11 104
+Added Member To Class: ClassName=BiSheFinalA Member=Component C12 104
+Added Member To Class: ClassName=BiSheFinalA Member=Component C13 104
+Added Member To Class: ClassName=BiSheFinalA Member=Component C14 104
+Added Member To Class: ClassName=BiSheFinalA Member=Component C15 104
+Added Member To Class: ClassName=BiSheFinalA Member=Component C16 104
+Added Member To Class: ClassName=BiSheFinalA Member=Component C17 104
+Added Member To Class: ClassName=BiSheFinalA Member=Component C18 104
+Added Member To Class: ClassName=BiSheFinalA Member=Component C19 104
+Added Member To Class: ClassName=BiSheFinalB Member=Component C20 104
+Added Member To Class: ClassName=BiSheFinalB Member=Component C21 104
+Added Member To Class: ClassName=BiSheFinalB Member=Component C22 104
+Added Member To Class: ClassName=BiSheFinalB Member=Component C23 104
+Added Member To Class: ClassName=BiSheFinalB Member=Component C24 104
+Added Member To Class: ClassName=BiSheFinalB Member=Component C25 104
+Added Member To Class: ClassName=BiSheFinalA Member=Component C? 104
+Added Member To Class: ClassName=BiSheFinalA Member=Component CE1 470uF/16V
+Added Member To Class: ClassName=BiSheFinalA Member=Component CE2 470uF/16V
+Added Member To Class: ClassName=BiSheFinalB Member=Component CE3 470uF/16V
+Added Member To Class: ClassName=BiSheFinalA Member=Component D1 1N4148
+Added Member To Class: ClassName=BiSheFinalA Member=Component D2 1N4148
+Added Member To Class: ClassName=BiSheFinalA Member=Component IC1 LM358
+Added Member To Class: ClassName=BiSheFinalA Member=Component LED1 绿色
+Added Member To Class: ClassName=BiSheFinalA Member=Component LED2 红色
+Added Member To Class: ClassName=BiSheFinalA Member=Component LED3 蓝色
+Added Member To Class: ClassName=BiSheFinalA Member=Component P1 排针
+Added Member To Class: ClassName=BiSheFinalA Member=Component P2 排针
+Added Member To Class: ClassName=BiSheFinalA Member=Component Q1 SS8050
+Added Member To Class: ClassName=BiSheFinalA Member=Component Q2 SS8550
+Added Member To Class: ClassName=BiSheFinalA Member=Component Q3 SS8050
+Added Member To Class: ClassName=BiSheFinalB Member=Component Q4 SS8050
+Added Member To Class: ClassName=BiSheFinalB Member=Component Q5 SS8050
+Added Member To Class: ClassName=BiSheFinalA Member=Component R1 10K
+Added Member To Class: ClassName=BiSheFinalA Member=Component R2 5.1K
+Added Member To Class: ClassName=BiSheFinalA Member=Component R3 1K
+Added Member To Class: ClassName=BiSheFinalA Member=Component R4 5.1K
+Added Member To Class: ClassName=BiSheFinalA Member=Component R5 1K
+Added Member To Class: ClassName=BiSheFinalA Member=Component R6 1K
+Added Member To Class: ClassName=BiSheFinalA Member=Component R7 1K
+Added Member To Class: ClassName=BiSheFinalA Member=Component R8 10K
+Added Member To Class: ClassName=BiSheFinalA Member=Component R9 1M
+Added Member To Class: ClassName=BiSheFinalA Member=Component R10 10K
+Added Member To Class: ClassName=BiSheFinalA Member=Component R11 10K
+Added Member To Class: ClassName=BiSheFinalA Member=Component R12 10K
+Added Member To Class: ClassName=BiSheFinalA Member=Component R13 10K
+Added Member To Class: ClassName=BiSheFinalA Member=Component R14 10K
+Added Member To Class: ClassName=BiSheFinalA Member=Component R15 470
+Added Member To Class: ClassName=BiSheFinalA Member=Component R16 10K
+Added Member To Class: ClassName=BiSheFinalA Member=Component R17 1K
+Added Member To Class: ClassName=BiSheFinalA Member=Component R18 10K
+Added Member To Class: ClassName=BiSheFinalA Member=Component R19 470
+Added Member To Class: ClassName=BiSheFinalA Member=Component R20 470
+Added Member To Class: ClassName=BiSheFinalA Member=Component R21 1K
+Added Member To Class: ClassName=BiSheFinalA Member=Component R22 2.2K
+Added Member To Class: ClassName=BiSheFinalA Member=Component R23 2.2K
+Added Member To Class: ClassName=BiSheFinalA Member=Component R24 10K
+Added Member To Class: ClassName=BiSheFinalB Member=Component R25 10K
+Added Member To Class: ClassName=BiSheFinalB Member=Component R26 10K
+Added Member To Class: ClassName=BiSheFinalB Member=Component R27 10K
+Added Member To Class: ClassName=BiSheFinalB Member=Component R28 10K
+Added Member To Class: ClassName=BiSheFinalB Member=Component R29 10K
+Added Member To Class: ClassName=BiSheFinalB Member=Component R30 10K
+Added Member To Class: ClassName=BiSheFinalA Member=Component S1 SS12D00G3
+Added Member To Class: ClassName=BiSheFinalA Member=Component Sen1 MQ2底座
+Added Member To Class: ClassName=BiSheFinalA Member=Component SW1 轻触开关
+Added Member To Class: ClassName=BiSheFinalB Member=Component SW2 轻触开关
+Added Member To Class: ClassName=BiSheFinalB Member=Component SW3 轻触开关
+Added Member To Class: ClassName=BiSheFinalA Member=Component T1 TFT底座
+Added Member To Class: ClassName=BiSheFinalA Member=Component U1 AMS1117-3.3
+Added Member To Class: ClassName=BiSheFinalA Member=Component U2 CH340C
+Added Member To Class: ClassName=BiSheFinalA Member=Component U3 STM32F103C8T6
+Added Member To Class: ClassName=BiSheFinalA Member=Component U4 AT24C02
+Added Member To Class: ClassName=BiSheFinalB Member=Component U5 AMS1117-3.3
+Added Member To Class: ClassName=BiSheFinalB Member=Component U6 CH340C
+Added Member To Class: ClassName=BiSheFinalB Member=Component U7 ESP12F
+Added Member To Class: ClassName=BiSheFinalA Member=Component USBC1 TYPE-C 2.0 -16P
+Added Member To Class: ClassName=BiSheFinalA Member=Component X1 32.768KHZ
+Added Member To Class: ClassName=BiSheFinalA Member=Component X2 8MHz

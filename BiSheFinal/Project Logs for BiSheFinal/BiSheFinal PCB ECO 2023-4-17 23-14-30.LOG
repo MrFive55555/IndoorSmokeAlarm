@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=CE1 Old Footprint=CAP 1.5*4*8 New Footprint=CAP 3.5*8*11.5
+Change Component Footprint: Designator=CE2 Old Footprint=CAP 1.5*4*8 New Footprint=CAP 3.5*8*11.5
+Added Member To Class: ClassName=BiSheFinalA Member=Component C2 1uf
+Added Member To Class: ClassName=BiSheFinalA Member=Component C3 104
+Added Member To Class: ClassName=BiSheFinalA Member=Component C6 1uf
+Added Member To Class: ClassName=BiSheFinalA Member=Component C7 22pf
+Added Member To Class: ClassName=BiSheFinalA Member=Component C8 22pf
+Added Member To Class: ClassName=BiSheFinalA Member=Component C10 22pf
+Added Member To Class: ClassName=BiSheFinalA Member=Component C12 104

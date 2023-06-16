@@ -1,0 +1,43 @@
+Added Component: Designator=Button1(Button)
+Added Component: Designator=Button2(Button)
+Added Component: Designator=Button3(Button)
+Added Component: Designator=R9(R 0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://item.taobao.com/item.htm?id=566775463719"; VariantName = "[No Variations]"
+Added Component: Designator=R11(R 0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://item.taobao.com/item.htm?id=566775463719"; VariantName = "[No Variations]"
+Added Component: Designator=R12(R 0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://item.taobao.com/item.htm?id=566775463719"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PB0 Pin=Button1-1
+Added Pin To Net: NetName=NetButton1_2 Pin=Button1-2
+Added Pin To Net: NetName=A12 Pin=Button1-4
+Added Pin To Net: NetName=PB1 Pin=Button2-1
+Added Pin To Net: NetName=NetButton2_2 Pin=Button2-2
+Added Pin To Net: NetName=A12 Pin=Button2-4
+Added Pin To Net: NetName=PB10 Pin=Button3-1
+Added Pin To Net: NetName=NetButton3_2 Pin=Button3-2
+Added Pin To Net: NetName=A12 Pin=Button3-4
+Add Pin To Net: Unknown Pin: Pin C5-1
+Added Pin To Net: NetName=3V3_STM Pin=R9-1
+Added Pin To Net: NetName=NetButton1_2 Pin=R9-2
+Added Pin To Net: NetName=3V3_STM Pin=R11-1
+Added Pin To Net: NetName=NetButton2_2 Pin=R11-2
+Added Pin To Net: NetName=3V3_STM Pin=R12-1
+Added Pin To Net: NetName=NetButton3_2 Pin=R12-2
+Added Pin To Net: NetName=A4 Pin=USBC1-B4
+Change Net Name : Old Net Name=A4 New Net Name=VCC
+Change Net Name : Old Net Name=A12 New Net Name=GND
+Added Member To Class: ClassName=BiSheA Member=Component Button1 轻触按钮
+Added Member To Class: ClassName=BiSheA Member=Component Button2 轻触按钮
+Added Member To Class: ClassName=BiSheA Member=Component Button3 轻触按钮
+Added Member To Class: ClassName=BiSheA Member=Component R9 10K
+Added Member To Class: ClassName=BiSheA Member=Component R11 10K
+Added Member To Class: ClassName=BiSheA Member=Component R12 10K

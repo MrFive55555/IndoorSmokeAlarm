@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=D+ Pin=U2-5
+Removed Pin From Net: NetName=D- Pin=U2-6
+Removed Pin From Net: NetName=D+ Pin=U6-5
+Removed Pin From Net: NetName=D- Pin=U6-6
+Added Component: Designator=P7(3Pin)
+Added Component: Designator=P8(3Pin)
+Added Pin To Net: NetName=D+ Pin=P7-2
+Added Pin To Net: NetName=D- Pin=P8-2
+Added Pin To Net: NetName=D+_ESP Pin=P7-3
+Added Pin To Net: NetName=D+_ESP Pin=U6-5
+Added Net: Name=D+_ESP
+Added Pin To Net: NetName=D+_STM Pin=P7-1
+Added Pin To Net: NetName=D+_STM Pin=U2-5
+Added Net: Name=D+_STM
+Added Pin To Net: NetName=D-_ESP Pin=P8-3
+Added Pin To Net: NetName=D-_ESP Pin=U6-6
+Added Net: Name=D-_ESP
+Added Pin To Net: NetName=D-_STM Pin=P8-1
+Added Pin To Net: NetName=D-_STM Pin=U2-6
+Added Net: Name=D-_STM
+Added Member To Class: ClassName=BiSheA Member=Component P7 ÅÅÕë
+Added Member To Class: ClassName=BiSheA Member=Component P8 ÅÅÕë

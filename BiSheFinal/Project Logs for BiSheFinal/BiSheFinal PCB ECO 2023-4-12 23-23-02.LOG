@@ -1,0 +1,5 @@
+Added Component: Designator=USBC?(USB-C-SMD_TYPE-C-USB-5)
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "TYPE-C 3.1 -16P_C168689"; VariantName = "[No Variations]"
+Added Class: Name=BiSheFinal

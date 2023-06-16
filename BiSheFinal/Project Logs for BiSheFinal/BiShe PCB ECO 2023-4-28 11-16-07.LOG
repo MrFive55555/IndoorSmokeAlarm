@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=PA1 Pin=1-2
+Removed Member From Class: ClassName=BiSheA Member=1
+Removed Member From Class: ClassName=BiSheB Member=P4
+Removed Member From Class: ClassName=BiSheA Member=P7
+Change Component Designator: OldDesignator=R17 NewDesignator=R18
+Change Component Designator: OldDesignator=R18 NewDesignator=R19
+Change Component Designator: OldDesignator=R19 NewDesignator=R20
+Change Component Designator: OldDesignator=R20 NewDesignator=R21
+Change Component Designator: OldDesignator=R21 NewDesignator=R22
+Change Component Designator: OldDesignator=R22 NewDesignator=R23
+Change Component Designator: OldDesignator=R23 NewDesignator=R24
+Change Component Designator: OldDesignator=R24 NewDesignator=R25
+Change Component Designator: OldDesignator=R25 NewDesignator=R26
+Change Component Designator: OldDesignator=R26 NewDesignator=R27
+Change Component Designator: OldDesignator=R27 NewDesignator=R28
+Change Component Designator: OldDesignator=R28 NewDesignator=R29
+Change Component Designator: OldDesignator=R29 NewDesignator=R30
+Change Component Designator: OldDesignator=R30 NewDesignator=R31
+Added Component: Designator=R17(R 0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://item.taobao.com/item.htm?id=566775463719"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PA1 Pin=R17-1
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=IC1-2
+Added Pin To Net: NetName=NetC12_2 Pin=R17-2
+Added Net: Name=NetC12_2
+Added Member To Class: ClassName=BiSheA Member=Component P2 排针
+Added Member To Class: ClassName=BiSheA Member=Component P3 排针
+Added Member To Class: ClassName=BiSheA Member=Component P5 排针
+Added Member To Class: ClassName=BiSheB Member=Component P6 排针
+Added Member To Class: ClassName=BiSheA Member=Component R24 10K

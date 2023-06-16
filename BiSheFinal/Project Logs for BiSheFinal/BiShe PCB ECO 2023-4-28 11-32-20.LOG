@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=GND Pin=+1-1
+Removed Pin From Net: NetName=5V Pin=+1-2
+Removed Member From Class: ClassName=BiSheA Member=+1
+Removed Member From Class: ClassName=BiSheA Member=R28
+Change Component Designator: OldDesignator=C11 NewDesignator=C?
+Added Component: Designator=C11(C 0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "唯一出售店铺网址"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后，技术支持"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=5V Pin=C11-2
+Added Member To Class: ClassName=BiSheA Member=Component C? 104
+Added Member To Class: ClassName=BiSheA Member=Component R17 10K
+Added Member To Class: ClassName=BiSheA Member=Component R19 470
+Added Member To Class: ClassName=BiSheA Member=Component R20 10K
+Added Member To Class: ClassName=BiSheA Member=Component R21 2.2K
+Added Member To Class: ClassName=BiSheA Member=Component R22 2.2K
+Added Member To Class: ClassName=BiSheA Member=Component R24 10K
+Added Member To Class: ClassName=BiSheB Member=Component R25 10K
+Added Member To Class: ClassName=BiSheB Member=Component R26 10K
+Added Member To Class: ClassName=BiSheB Member=Component R27 10K
+Added Member To Class: ClassName=BiSheB Member=Component R29 10K
+Added Member To Class: ClassName=BiSheB Member=Component R30 10K
